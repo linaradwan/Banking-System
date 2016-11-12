@@ -1,2 +1,2 @@
 # Banking-System
-A Bank System 
+A Bank System written in C++
